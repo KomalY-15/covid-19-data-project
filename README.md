@@ -1,2 +1,20 @@
-# covid-19-data-project
-A Python-based data analysis project that explores COVID-19 datasets to uncover trends in confirmed cases, recoveries, deaths, etc. The project uses data cleaning, exploratory data analysis (EDA), and visualizations to provide insights into the pandemic's impact across different regions and time periods.
+# COVID-19 Data Analysis
+
+## Overview
+This project analyzes COVID-19 data using Python to identify trends in confirmed cases, recoveries, and deaths.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Features
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Trend Analysis
+
+## Author
+Komal Yadav
